@@ -62,6 +62,7 @@ header-includes:
 # Выполнение лабораторной работы
 
 1. Создаем  виртуальную машину. Операционная система Rocky 9, RAM 2048 МБ, Жесткий диск 40 Гб, Тип Linux версия Red Hat
+
 ![Краткий обзор конфигурации виртуальной машины](https://raw.githubusercontent.com/tgabriel22/Work/main/2022-2023/Информационная%20безопасность/infosec/Lab01/report/image/Capture1.PNG){#fig:000 width=70%}
 
 ![Краткий обзор конфигурации виртуальной машины](https://raw.githubusercontent.com/tgabriel22/Work/main/2022-2023/Информационная%20безопасность/infosec/Lab01/report/image/Capture2.PNG){#fig:001 width=70%}
